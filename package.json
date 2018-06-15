@@ -78,6 +78,6 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "flux-standard-action": "^0.6.1"
+    "flux-standard-action": "^2.0.0"
   }
 }
