@@ -1,5 +1,5 @@
 {
-  "name": "redux-thunk-fsa",
+  "name": "@hitask/redux-thunk-fsa",
   "version": "4.0.1",
   "description": "FSA compliant thunk middleware for Redux.",
   "main": "lib/index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/makeomatic/redux-thunk.git"
+    "url": "https://github.com/HiTask/redux-thunk-fsa.git"
   },
   "homepage": "https://github.com/makeomatic/redux-thunk",
   "keywords": [
